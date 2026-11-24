@@ -1,12 +1,11 @@
-Hi there, I'm Muhammad Hussain 👋
-
-**Software, AI/ML & Game Engineer | 3D Artist & Motion Designer | Cybersecurity (CEH) Practitioner**
+# Hi there, I'm Muhammad Hussain 👋
+### Software, AI/ML & Game Engineer | 3D Artist & Motion Designer | Cybersecurity (CEH) Practitioner
 
 > Architecting end-to-end web and mobile applications, intelligent automation pipelines, interactive 3D worlds, and resilient server infrastructures with a security-first mindset.
 
 ---
 
-### Core Domains & Focus Areas
+## Core Domains & Focus Areas
 
 * **Web & Cross-Platform Engineering:** Designing responsive web applications, cloud-backed architectures, and cross-platform mobile interfaces with clean, maintainable codebases.
 * **Artificial Intelligence & Machine Learning:** Integrating applied ML workflows, LLM-driven systems, and intelligent automation into practical software products.
@@ -16,7 +15,7 @@ Hi there, I'm Muhammad Hussain 👋
 
 ---
 
-### Technology & Creative Arsenal
+## Technology & Creative Arsenal
 
 #### **Software, Web & Mobile Development**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,7 +45,7 @@ Hi there, I'm Muhammad Hussain 👋
 
 ---
 
-### Selected Initiatives & Engineering Work
+## Selected Initiatives & Engineering Work
 
 | Project / Domain | Scope & Architecture |
 | :--- | :--- |
@@ -58,7 +57,7 @@ Hi there, I'm Muhammad Hussain 👋
 
 ---
 
-### Current Trajectory
+## Current Trajectory
 
 * **Deepening:** Offensive security fundamentals, network reconnaissance, and ethical hacking methodologies (**CEH**).
 * **Building:** Production-grade web/mobile applications and AI-integrated developer utilities.
